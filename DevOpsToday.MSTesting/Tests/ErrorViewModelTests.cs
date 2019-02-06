@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using DevOpsToday.Controllers;
+using DevOpsToday.Models;
 
 namespace NetOps.MSTesting.Tests
 {
